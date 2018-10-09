@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPAdmin-FinalDraft", "IPAdmin-FinalDraft\IPAdmin-FinalDraft.csproj", "{DAE067F5-57A2-49FB-A966-5EE8C76359FF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup-AutoNetworks-IPAdmin-V1.0.1", "AutoNetworks IP Admin-V1.0.1\AutoNetworks IP Admin-V1.0.1.vdproj", "{2B227AF1-0FA9-4394-8944-B98B3F3A982B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AutoNetworks-IPAdmin-v1.0.0", "AutoNetworks-IPAdmin-v1.0.0\AutoNetworks-IPAdmin-v1.0.0.vdproj", "{BAB22721-EC66-4FF7-929A-919805BD1823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAE067F5-57A2-49FB-A966-5EE8C76359FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE067F5-57A2-49FB-A966-5EE8C76359FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE067F5-57A2-49FB-A966-5EE8C76359FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE067F5-57A2-49FB-A966-5EE8C76359FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B227AF1-0FA9-4394-8944-B98B3F3A982B}.Debug|Any CPU.ActiveCfg = Debug
+		{2B227AF1-0FA9-4394-8944-B98B3F3A982B}.Release|Any CPU.ActiveCfg = Release
+		{BAB22721-EC66-4FF7-929A-919805BD1823}.Debug|Any CPU.ActiveCfg = Debug
+		{BAB22721-EC66-4FF7-929A-919805BD1823}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E085264D-96C0-416F-B978-0867472674F1}
+	EndGlobalSection
+EndGlobal
